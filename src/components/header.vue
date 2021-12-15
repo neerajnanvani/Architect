@@ -22,6 +22,7 @@ export default {};
 .pos-rel {
   position: relative;
   z-index: 0;
+  max-width: 1500px !important;
 }
 #header_div {
   position: relative;

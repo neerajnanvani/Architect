@@ -40,7 +40,7 @@ body {
   font-size: 15px;
 }
 .v-main {
-  max-width: 1500px !important;
+  /* max-width: 1500px !important; */
   margin: 0 auto !important;
   padding: 0 !important;
 }
